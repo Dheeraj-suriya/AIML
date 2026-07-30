@@ -57,3 +57,4 @@ After processing Positive Example 5:
 ['High', 'Large', 'High', '?', '?']
 
 Final Specific Hypothesis:
+['High', 'Large', 'High', '?', '?']
