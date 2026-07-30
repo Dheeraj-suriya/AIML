@@ -1,0 +1,6 @@
+Latency Sensitivity,Data Volume,RAM Demand,Network Bandwidth,GPU Required,High-Performance Edge
+High,Large,High,Dedicated,Yes,Yes
+High,Small,High,Shared,Yes,No
+High,Large,High,Shared,Yes,Yes
+Low,Large,Medium,Shared,No,No
+High,Large,High,Dedicated,No,Yes
